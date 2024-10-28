@@ -32,7 +32,7 @@ def handle(msg):
     bot.sendMessage(chat_id, "That's interesting! Tell me more.")
 
 # Replace 'YOUR_TOKEN' with your actual bot token
-TOKEN = '7199861141:AAEXoMNEYAAqcuXRxl4n9qJiG_l9_WEeiwc'
+TOKEN = '7199861141:AAHuzk8Ipe5nt4a4gg1iojsLJ8YvAPyq5P4'
 bot = telepot.Bot(TOKEN)
 
 # Set up message handling
